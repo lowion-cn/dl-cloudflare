@@ -2,7 +2,8 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://cdn_drc_vercel_conn_js_jsd.lowion.cn/$1"
+      "dest": "https://150.158.35.158/$1"
+      "Host": "www.lowion.cn"
     }
   ]
 }
