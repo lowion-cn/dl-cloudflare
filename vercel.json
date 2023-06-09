@@ -3,6 +3,7 @@
     {
       "src": "/(.*)",
       "dest": "https://www.lowion.cn/$1"
+      "Location": "/index.html"
     }
   ]
 }
