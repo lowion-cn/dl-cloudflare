@@ -3,7 +3,7 @@
     {
       "src": "/(.*)",
       "dest": "https://150.158.35.158/$1"
-      "Host": "www.lowion.cn"
+      "Host": "www.lowion.cn:443"
     }
   ]
 }
