@@ -3,6 +3,10 @@
     {
       "src": "/(.*)",
       "dest": "https://cdn_drc_vercel_conn_js_jsd.lowion.cn/$1"
+    },
+    {
+      "src": "/speedtest_vercel",
+      "dest": "http://cachefly.cachefly.net/100mb.test"
     }
   ]
 }
